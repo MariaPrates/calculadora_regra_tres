@@ -1,0 +1,27 @@
+/*Maria*/
+.container {
+width: auto;
+height: 68vh;
+background: rgba(115, 0, 247, 0.576);
+display: flex;
+}
+
+.col-12{
+  top: 30px;
+}
+
+.col-5{
+  top: 20px;
+}
+.col-1{
+ font-size: 40px;
+ top: 5px;
+ left: -17px;
+}
+
+.btn{
+  justify-content: center;
+}
+hr{
+  background: black;
+}
